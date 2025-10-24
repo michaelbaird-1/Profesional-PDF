@@ -1,7 +1,7 @@
-title: Student Portfolio
-description: Portfolio site template
-url: "https://estillcountyatc-computerscience.github.io"  # no trailing slash
-baseurl: "/portfolio-template"                             # leading slash required
+title: Michael Baird
+description: Professional-PDF
+url: "https://Michaelbaird-1.github.io"  # no trailing slash
+baseurl: "/"                             # leading slash required
 
 # Choose ONE of these (theme OR remote_theme):
 # theme: jekyll-theme-cayman
